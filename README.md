@@ -1,12 +1,12 @@
 # Description
 
-xss_punisher - is a web-application tool, that performs quick scan on XSS Vulnerability, by injecting JS Code.
+xss_punisher - is a web-application penetration tool. 
+That performs quick scan on XSS Vulnerability, by injecting JS Code (payload).
 -----
 
 # Preview
 
 ![preview](/imgs/preview.png)
-
 
 # Usage & Instalation
 
