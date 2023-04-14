@@ -14,7 +14,7 @@ Instalation
 ---
 `git clone https://github.com/PR0PH3CY0x1/xss_punisher.git`
 
-`cd xss_punisher`
+`cd xss_punisher/xss_punisher`
 
 Setup
 ---
