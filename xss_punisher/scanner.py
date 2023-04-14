@@ -2,7 +2,7 @@ from argparse import ArgumentParser;
 
 from pprint import pprint;
 from colorama import Fore;
-from banner import PUNISHER_TEXT, XSS_TEXT, BANNER; 
+from src.banner import PUNISHER_TEXT, XSS_TEXT, BANNER; 
 
 from urllib.parse import urljoin;
 
