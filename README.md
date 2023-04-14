@@ -12,18 +12,24 @@ That performs quick scan on XSS Vulnerability, by injecting JS Code (payload).
 
 Instalation
 ---
-git clone https://github.com/PR0PH3CY0x1/xss_punisher.git
+`git clone https://github.com/PR0PH3CY0x1/xss_punisher.git`
 
-cd xss_punisher
+`cd xss_punisher`
 
 Setup
 ---
 
-pip3 install -r requirments.txt
+`pip3 install -r requirments.txt`
 
-python scanner.py -h
+`python scanner.py -h`
 
 Usage
 ---
 
-Try flag '-h' to see all the help message.
+Try flag '-h' or '--help' to see the help message.
+
+You have to set `target` and `payload`:
+--
+
+`python3 scanner -t URL -p JS_CODE`
+
