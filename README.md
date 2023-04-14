@@ -29,7 +29,7 @@ Usage
 Try flag '-h' or '--help' to see the help message.
 
 You have to set `target` and `payload`:
---
+----
 
 `python3 scanner -t URL -p "JS_CODE"`
 
